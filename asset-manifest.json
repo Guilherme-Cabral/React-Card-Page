@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Card-Page/static/css/main.ffe9bb2a.css",
+    "main.js": "/React-Card-Page/static/js/main.cafa521f.js",
+    "index.html": "/React-Card-Page/index.html",
+    "main.ffe9bb2a.css.map": "/React-Card-Page/static/css/main.ffe9bb2a.css.map",
+    "main.cafa521f.js.map": "/React-Card-Page/static/js/main.cafa521f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffe9bb2a.css",
+    "static/js/main.cafa521f.js"
+  ]
+}
