@@ -1,0 +1,21 @@
+.container {
+    margin: 0 auto;
+    min-height: 100vh;
+    background: #eee;
+    padding: 30px;
+}
+
+.btnContainer {
+    min-height:100px;
+    display: flex;
+    align-items: flex-end;
+
+}
+
+.search-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15px;
+    text-shadow: 1px 3px 0 #969696, 1px 13px 5px #aba8a8;
+}

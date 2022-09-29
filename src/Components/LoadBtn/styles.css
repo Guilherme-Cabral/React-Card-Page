@@ -1,0 +1,19 @@
+button {
+    width: 100%;
+    margin: 10px 0;
+    padding: 15px 30px;
+    background: darkblue;
+    color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border: none;
+}
+
+button:hover{
+    cursor: pointer;
+    background: rgba(0, 0, 0, 0.1);
+}
+
+button:disabled {
+    background: #888;
+    cursor: not-allowed;
+}
